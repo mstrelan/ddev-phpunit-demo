@@ -1,13 +1,9 @@
 {
-    "name": "drupal/recommended-project",
-    "description": "Project template for Drupal 9 projects with a relocated document root",
+    "name": "mstrelan/ddev-phpunit-demo",
+    "description": "Demo project for running and xdebugging phpunit tests",
     "type": "project",
     "license": "GPL-2.0-or-later",
-    "homepage": "https://www.drupal.org/project/drupal",
-    "support": {
-        "docs": "https://www.drupal.org/docs/user_guide/en/index.html",
-        "chat": "https://www.drupal.org/node/314178"
-    },
+    "homepage": "https://github.com/mstrelan/ddev-phpunit-demo",
     "repositories": [
         {
             "type": "composer",
