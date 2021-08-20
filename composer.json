@@ -88,6 +88,7 @@
         }
     },
     "require-dev": {
+        "dmore/chrome-mink-driver": "^2.8",
         "drupal/core-dev": "^9.2",
         "phpspec/prophecy-phpunit": "^2.0",
         "weitzman/drupal-test-traits": "^1.5"
